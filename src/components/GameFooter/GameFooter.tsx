@@ -39,10 +39,10 @@ const LearnMore = () => {
     <Section title="LEARN MORE">
       <p>
         This app is inspired by{" "}
-        <a href="https://play2048.co/">https://play2048.co/</a>. If you want to
+        <a href="https://nickbang.github.io/2048game">https://nickbang.github.io/2048game</a>. If you want to
         learn more about the project tech stack or see the code, visit the&nbsp;
         <a
-          href="https://github.com/grigorzyapkov/2048game"
+          href="https://github.com/nickbang/2048game"
           target="_blank"
           rel="noreferrer"
         >

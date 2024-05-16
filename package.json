@@ -1,5 +1,6 @@
 {
-  "name": "2048",
+  "homepage": "http://nickbang.github.io/2048game",
+  "name": "2048game",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
